@@ -1,0 +1,23 @@
+  import java.util.Scanner;
+
+    public class Mavenproject1 {
+        public static float avg(float n1,float n2 , float n3){
+            float sum =(n1+n2+n3)/3;
+
+            return sum;
+        }
+          public static void main(String[] args) {
+              Scanner in = new Scanner(System.in);
+               float x,y,z;
+              System.out.println("enter number1:");
+     x= in.nextFloat();
+              System.out.println("enter numer2=");
+    y=in.nextFloat();
+              System.out.println("enter number 3=");
+    z=in.nextFloat();
+    System.out.println("avg= "+avg(x,y,z));
+
+
+        }
+    }
+///////////////////
