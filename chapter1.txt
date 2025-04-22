@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+Once upon a time, in a village named "Init", lived a brave explorer named Git.
+=======
+Once upon a time, in a town named "Init", lived a enthusiastic explorer named Git.
+>>>>>>> conflict-branch
+Git was well-known for his curiosity and eagerness to learn.
+He had one dream - to explore the mysterious world of Version Control.
+
+Chapter 2: Git's Decision
+Git, after much contemplation, decided to leave his home in Init to
+explore the vast world of Version Control.
+
+<<<<<<< HEAD
+New line added in master branch.
+=======
+Chapter 3: Git's First Step
+With a heavy heart and a bag full of hopes, Git took his first step
+into the world unknown.
+>>>>>>> chapter3
